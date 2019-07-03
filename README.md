@@ -2,7 +2,7 @@
 
 ### Autonomous car using Raspberry Pi
 
-Lane detection and obstacle detection code: hough_final_updated.py
+Lane detection and obstacle detection code: lane_obstacle_code.py
 
 Stop sign detection code:
 
