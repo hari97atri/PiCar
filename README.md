@@ -1,9 +1,8 @@
 # PiCar-2019
+
 ### Autonomous car using Raspberry Pi
 
-
 Lane detection and obstacle detection code: hough_final_updated.py
-
 
 Stop sign detection code:
 
@@ -14,4 +13,4 @@ In server, run the bash script `testing.sh` , make sure the `stopPrototype.png` 
 
 Find all documentation here:
 
-https://drive.google.com/drive/folders/1-2OW1vcUru_XxngH9NYHh3_xVJcLW1oo
+https://drive.google.com/open?id=1fzsrf26L6RKoQyDZ27Cxr0UgdZfFOSK6
